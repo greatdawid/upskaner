@@ -1,0 +1,12 @@
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\bin\Debug\SkanerVK.exe.config
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\bin\Debug\SkanerVK.exe
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\bin\Debug\SkanerVK.pdb
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\bin\Debug\Interop.WIA.dll
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.csprojResolveAssemblyReference.cache
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\Interop.WIA.dll
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.csproj.ResolveComReference.cache
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.Form1.resources
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.Properties.Resources.resources
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.csproj.GenerateResource.Cache
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.exe
+C:\Users\lab\Desktop\SkanerVK\SkanerVK\obj\Debug\SkanerVK.pdb
